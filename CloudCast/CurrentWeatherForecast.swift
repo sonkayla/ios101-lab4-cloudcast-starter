@@ -82,4 +82,6 @@ enum WeatherCode: Int {
       return UIImage(named: "lightning")
     }
   }
+    
+    
 }
